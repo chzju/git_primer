@@ -1,6 +1,5 @@
 # Summary
 
-* [introduction](README.md)
-* sum2
 * sum1
+* sum2
 
