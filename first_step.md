@@ -11,5 +11,9 @@
 	* git commit main.java
 	* git commit *.js
     * git commit
+* 新建分支
+	* git checkout -b feature_add_regist_mobile
+* 合并分支
+	* git merge feature_add_regist_mobile
 * 忽略某些文件
      * 编辑.gitignore文件，使用【glob】模式

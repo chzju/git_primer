@@ -1,6 +1,7 @@
 # Summary
 
-* [常用命令](common_use.md)
+* [git起步](common_use.md)
+    * [需要了解的一点基础知识](common_sense.md)
 	* [第一步](first_step.md)
 	* [推送](first_push.md)
 	* [常用的操作组合](command_bundle.md)
